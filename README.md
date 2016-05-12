@@ -1,18 +1,17 @@
-![mikroe logo](http://www.mikroe.com/img/designs/beta/logo_small.pn)
+![mikroe logo](http://www.mikroe.com/img/designs/beta/logo_small.png)
 
 ## Manometer click
-![mano meter](URL)
+![mano meter](http://cdn.mikroe.com/img/click/manometer/gallery/manometer-click-02.png)
 
 
 ---
-[Product Page](http://www.mikroe.com/click/)
-
+[Product Page](http://www.mikroe.com/click/manometer)
+[Documentation](http://docs.mikroe.com/Manometer_click)
 [Tutorial](http://learn.mikroe.com/industrial-solution-pressures/)
-
 ---
 
 ### General Description
-Manometer click is an add-on board with a piezoresistive silicon pressure sensor. The onboard Honeywell HSCMAND060PA3A3 module has an industry-leading, extremely high accuracy of ±0.25%FSS BFSL. A wide pressure range from ±1.6 mbar to ±10 bar makes it suitable for a variety applications. Beyond the measurement range, the sensor has a high burst pressure threshold, resulting in increased reliability. The barbed port accepts 4.93 mm (0.19”) tubing. Manometer click communicates with the target board MCU through the mikroBUS™ I2C interface (SCL, SDA). Manometer click uses a 3.3V power supply.
+Manometer click is an add-on board with a piezoresistive silicon pressure sensor. The onboard Honeywell HSCMAND060PA3A3 module has an industry-leading, extremely high accuracy of ±0.25%FSS BFSL. An absolute pressure range from 0 to 60 PSI makes it suitable for a variety applications. Beyond the measurement range, the sensor has a high burst pressure threshold, resulting in increased reliability. The barbed port accepts 4.93 mm (0.19”) tubing. Manometer click communicates with the target board MCU through the mikroBUS™ I2C interface (SCL, SDA). Manometer click uses a 3.3V power supply. 
 
 
 ### Example
